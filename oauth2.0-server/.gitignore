@@ -52,4 +52,4 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
-.vs/
+oauth2.0-server/.vs
